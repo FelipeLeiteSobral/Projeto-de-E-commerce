@@ -21,10 +21,10 @@ const Features = () => {
         </div>
         <i className='absolute right-3 top-2 text-xl text-red-700'><ion-icon name="heart-outline"></ion-icon></i>
         <a href="">
-          <img src="https://images.kabum.com.br/produtos/fotos/370640/smart-google-tv-tcl-p635-led-50-4k-uhd-hdr-50p635_1663157381_gg.jpg" alt="teclado" className='mt-3 object-cover max-h-96 lg:max-h-64 w-full'/>
+          <img src="https://images.kabum.com.br/produtos/fotos/381278/smart-tv-multilaser-32-hd-hdmi-usb-wifi-e-android-integrado-google-assistente-tl042_1663084561_gg.jpg" alt="teclado" className='mt-3 object-cover max-h-96 lg:max-h-64 w-full'/>
           <div className='bg-white pt-28'></div>
         </a>
-        <h3 className='text-center absolute bottom-20 font-gemunu text-rblackdark font-semibold text-lg pr-3'>Smart TV TCL 50 Polegadas LED 4K UHD</h3>
+        <h3 className='text-center absolute bottom-20 font-gemunu text-rblackdark font-semibold text-lg pr-3'>Smart TV Multi 32 Polegadas HD, HDMI e Android Integrado</h3>
         <div className='flex w-full items-end'>
           <div className='absolute left-4 bottom-3 -space-y-2'>
             <p className='text-rblack font text-md'><s>R$ 2789,90</s></p>
